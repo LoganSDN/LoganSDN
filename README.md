@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @LoganSDN
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning at 42 School Lyon
-- 📫 How to reach me : lsidan@student.42lyon.fr
+```C
+typedef struct  sstudent
+{
+  char  *name = "Logan SIDAN";
+  char  *occupation = "42student";
+  char  *country = "France";
+  char  **language = {"French", "English"};
+  void  *brain = malloc(sizeof(char) * 1000);
+};              tstudent
+```
 
 <h4>My Piscine at 42:</h4>
 
