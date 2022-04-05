@@ -9,13 +9,9 @@ typedef struct  sstudent
 };              tstudent
 ```
 
-<h4>My Piscine at 42:</h4>
-
-[![lsidan's 42Piscine stats](https://badge42.herokuapp.com/api/stats/lsidan?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
-
 <h4>My profile at 42:</h4>
 
-[![lsidan's 42 stats](https://badge42.herokuapp.com/api/stats/lsidan?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![lsidan's 42 stats](https://badge42.vercel.app/api/v2/cl1lsob0l026909meoe64ghwc/stats?cursusId=21&coalitionId=17)](https://github.com/JaeSeoKim/badge42)
 
 <!---
 LoganSDN/LoganSDN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
